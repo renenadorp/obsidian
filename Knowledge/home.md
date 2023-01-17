@@ -2,35 +2,6 @@
 
 ## Cloud
 
-boardgame.io captures game state in two objects: `G` and `ctx`.
-
-```js
-{
-  // The game state (managed by you).
-  G: {},
-
-  // Read-only metadata (managed by the framework).
-  ctx: {
-    turn: 0,
-    currentPlayer: '0',
-    numPlayers: 2,
-  }
-}
-```
-
-These state objects are passed around everywhere and maintained
-on both client and server seamlessly. The state in `ctx` is
-incrementally adoptable, meaning that you can manage all the
-state manually in `G` if you so desire.
-
-?> `ctx` contains other fields not shown here that games
-can take advantage of, including support for game phases and complex
-turn orders.
-
-!> Because state can be sent between client and server,
-`G` must be a JSON-serializable object; in particular, it must
-not contain classes or functions.
-
 ### Moves
 
 These are functions that tell the framework how to change `G`
