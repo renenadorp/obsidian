@@ -1,10 +1,9 @@
-- **Home**    
-  - [Home](/)
-
 - **Cloud**
   - [Cloud](/Cloud/)
 - **Django**
   - [Django](/Django/)
+  - **Methodology**
+  - [Methodology](/Methodology/)
 - **Power BI**        
   - [Power BI](/Power BI/index.md)
 - **SQL**            
@@ -21,7 +20,7 @@
   - [Linux](/Linux/index.md)
 - **Purview**     
 - **Snowflake**
-- **DataGovernance**  
+- **Data Governance**  
 - **Methodology**     
 - **Python**       
 - **Synapse** 
