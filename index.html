@@ -61,10 +61,14 @@
     nameLink: {
       '/': '..'
     },
-    repo: 'https://github.com/boardgameio/boardgame.io',
+    repo: 'https://github.com/renenadorp/obsidian.io',
     logo: '../logo-optimized.svg',
     homepage: 'concepts.md',
-    loadSidebar: 'sidebar.md',
+    //loadSidebar: 'sidebar.md',
+    loadSidebar: true,
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
     subMaxLevel: 2,
     auto2top: true,
     search: 'auto', // default
