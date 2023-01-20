@@ -5,19 +5,23 @@
   - **Methodology**
   - [Methodology](/Methodology/)
 - **Power BI**        
-  - [Power BI](/Power BI/index.md)
+  - [Power BI](/PowerBI/)
 - **SQL**            
-  - [SQL](/SQL/index.md)
+  - [SQL](/SQL/)
 - **Conda**           
-  - [Conda](/Conda/index.md)
+  - [Conda](/Conda/)
 - **Privacy**            
-  - [Privacy](/Privacy/index.md)
+  - [Privacy](/Privacy/)
 - **Security**        
   - [Security](/Security/index.md)
 - **Data Science**    
-  - [Data Science](/Data Science/index.md)
+  - [Data Science](/Data Science/)
+  
+- **Data Visualization**    
+  - [Data Science](/DataVisualization/)
+  
 - **Linux**           
-  - [Linux](/Linux/index.md)
+  - [Linux](/Linux/)
 - **Purview**     
 - **Snowflake**
 - **Data Governance**  
