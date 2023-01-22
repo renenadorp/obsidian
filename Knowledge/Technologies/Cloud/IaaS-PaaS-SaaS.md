@@ -1,1 +1,1 @@
-![[Pasted image 20210927170153.png]]
+![[CloudTypes.png]]

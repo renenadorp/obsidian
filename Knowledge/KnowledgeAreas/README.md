@@ -1,3 +1,3 @@
 # Knowledge Areas
 this page is the main page of section "Knowledge Areas". 
-It covers various Data & Analytics areas, and is based on DMBOK2 
+It can cover any area, ranging from data governance to finance, to culture, to management, society, politics. 
